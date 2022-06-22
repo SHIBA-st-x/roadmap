@@ -1,8 +1,12 @@
 # GitHub public roadmap
 
-In this repository, you can find the [official GitHub public product roadmap](https://github.com/github/roadmap/projects/1). Our product roadmap is where you can learn about what features we're working on, what stage they're in, and when we expect to bring them to you. Have any questions or comments about items on the roadmap? Join the discussion over on the [GitHub Community Forum](https://github.community/) or share your feedback via the [GitHub public feedback discussions](https://github.com/github/feedback/discussions) page. 
+:sparkle: View the [official GitHub public product roadmap](https://github.com/orgs/github/projects/4247)[^1]
 
-The roadmap repository is for communicating GitHub’s roadmap. Existing issues are currently read-only, and we are locking conversations, as we get started. Interaction limits are also in place to ensure issues originate from GitHub. We’re planning to iterate on the format of the roadmap itself, and we see potential to engage more in discussions about the future of GitHub products and features. If you have feedback about this roadmap repository itself, such as how the issues are presented, let us know through this [Share feedback](https://support.github.com/contact/feedback?category=other&subject=GitHub+public+roadmap) page.
+Our product roadmap is where you can learn about what features we're working on, what stage they're in, and when we expect to bring them to you. Have any questions or comments about items on the roadmap? Share your feedback via [GitHub public feedback discussions](https://github.com/github/feedback/discussions). 
+
+[^1]:We've adopted the latest [beta features of GitHub projects](https://github.com/features/issues) for the [public roadmap](https://github.com/orgs/github/projects/4247). The [roadmap project board](https://github.com/github/roadmap/projects/1) within this repository is now closed. 
+
+The roadmap repository is for communicating GitHub’s roadmap. Existing issues are currently read-only, and we are locking conversations, as we get started. Interaction limits are also in place to ensure issues originate from GitHub. We’re planning to iterate on the format of the roadmap itself, and we see potential to engage more in discussions about the future of GitHub products and features. If you have feedback about this roadmap repository itself, such as how the issues are presented, let us know through [general feedback in GitHub public feedback discussions](https://github.com/github/feedback/discussions/new?category=General-Feedback&title=[Public%20roadmap]%20).
 
 ## Guide to the roadmap
 
@@ -40,6 +44,17 @@ Feature in discovery phase. We have decided to build this feature, but are still
 
 - **exploring:**\
 Feature under consideration. We are considering building this feature, and gathering feedback on it.
+
+## Release phases - For GHES
+
+Some features may be marked with a GHES 3.X label, which indicates that the feature will also become available for Github Enterprise Server customers. Below are the release version numbers and expected release quarters (_Note: these dates are subject to change_). 
+
+**GHES release version dates**:
+| **Version Number** | **Release Quarter** |
+|-|-|
+| 3.5 | Q2 2022 |
+| 3.6 | Q3 2022 |
+| 3.7 | Q4 2022 |
 
 ## Roadmap stages
 
